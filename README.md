@@ -19,7 +19,7 @@ LTL Formula Length: {[5,20),[20-40),[40-60),[60-80),[80-100)}
 
 ## Models
 
-We use random/gpt-3.5-turbo/gpt-4 in our experiments.
+We use random/gpt-4 in our experiments.
 
 ## Use Examples
 
